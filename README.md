@@ -37,7 +37,6 @@ To create a sample retail dataset, identify and handle missing values (`NaN`/`No
 
 ## Program
 
-# Cleaning and Preparing Retail Data using default values
 import pandas as pd
 
 data = {  
